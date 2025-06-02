@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Agustin]
+# 👋 ¡Hola! Soy Agustin.
 
 Soy estudiante de Tecnicatura Universitaria en Programación, en la Universidad Tecnologica Nacional FRT, con una gran pasión por la tecnología desde muy chico. Disfruto de la programación, el diseño de bases de datos y todo lo que implique resolver problemas de forma eficiente y con atención al detalle.
 
